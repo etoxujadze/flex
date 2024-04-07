@@ -1,0 +1,9 @@
+body {
+    background-image: url(aksonvady_Data_technology_futuristic_illustration\ 31\ 1.png);
+    width: 1280px;
+    height: 832px;
+    background-repeat: no-repeat;
+}
+.flexcontainer {
+    display: flex;
+}
